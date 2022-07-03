@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 1,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Holly Ellyatt",
+    "title": "'Surrender or die,' militia leader tells Ukrainian fighters in Severodonetsk; Pope says war perhaps 'provoked' - CNBC",
+    "description": "Ukraine's President Volodymyr Zelenskyy has said his country is dealing with \"absolute evil\" and must \"knock out the occupiers from all our areas.\"",
+    "url": "https://www.cnbc.com/2022/06/14/russia-ukraine-live-updates.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107075060-1655145913172-gettyimages-1241284122-AFP_32CE9Y6.jpeg?v=1655146291&w=1920&h=1080",
+    "publishedAt": "2022-06-14T09:58:00Z",
+    "content": "Pope Francis has again criticized Russia's invasion of Ukraine but also said that the war was \"perhaps in some way provoked.\"\r\nIn the text of a conversation he had last month with the editors of Jesu… [+832 chars]"
+    }
+    ]
+    }
